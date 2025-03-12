@@ -1,0 +1,4 @@
+fastAPI
+anthropic
+uvicorn
+azure-messaging-webpubsubservice
