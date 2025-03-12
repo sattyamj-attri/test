@@ -2,3 +2,4 @@ fastAPI
 anthropic
 uvicorn
 azure-messaging-webpubsubservice
+python-dotenv
